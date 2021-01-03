@@ -5,7 +5,7 @@
     "branch":      "lineage-18.1"
   },
   {
-    "repository":  "semdoc/kernel_oneplus_sm8250",
+    "repository":  "AICP/kernel_oneplus_sm8250",
     "target_path": "kernel/oneplus/sm8250",
     "branch":      "r11.1"
   },
